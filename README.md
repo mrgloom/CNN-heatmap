@@ -18,3 +18,5 @@ Is object localization for free? – Weakly Supervised Object Recognition with C
 http://www.di.ens.fr/willow/research/weakcnn/
 http://www.di.ens.fr/willow/research/cnn/
 
+5. Visualizing and Understanding Convolutional Networks
+https://arxiv.org/pdf/1311.2901v3.pdf
