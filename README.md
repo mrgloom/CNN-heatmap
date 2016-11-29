@@ -2,6 +2,7 @@
 
 
 1. Net surgery trick
+http://cs231n.github.io/convolutional-networks/#convert
 https://github.com/BVLC/caffe/blob/master/examples/net_surgery.ipynb
 https://arxiv.org/pdf/1502.02766v3.pdf
 
