@@ -3,6 +3,7 @@
 
 1. Net surgery trick
 https://github.com/BVLC/caffe/blob/master/examples/net_surgery.ipynb
+https://arxiv.org/pdf/1502.02766v3.pdf
 
 2. Global average pooling layer
 Network In Network
