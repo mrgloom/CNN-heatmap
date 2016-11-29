@@ -5,7 +5,7 @@
 http://cs231n.github.io/convolutional-networks/#convert
 https://github.com/BVLC/caffe/blob/master/examples/net_surgery.ipynb
 https://arxiv.org/pdf/1502.02766v3.pdf
-https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
+https://arxiv.org/pdf/1411.4038v2.pdf
 
 2. Global average pooling layer
 Network In Network
