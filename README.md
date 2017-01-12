@@ -1,6 +1,6 @@
 # CNN-heatmap
 
-
+~~~
 1. Net surgery trick
 http://cs231n.github.io/convolutional-networks/#convert
 https://github.com/BVLC/caffe/blob/master/examples/net_surgery.ipynb
@@ -23,3 +23,5 @@ http://www.di.ens.fr/willow/research/cnn/
 
 5. Visualizing and Understanding Convolutional Networks
 https://arxiv.org/pdf/1311.2901v3.pdf
+http://cs231n.github.io/understanding-cnn/
+~~~
