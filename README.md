@@ -13,18 +13,24 @@ https://arxiv.org/pdf/1411.4038v2.pdf
 Network In Network
 https://arxiv.org/pdf/1312.4400.pdf
 
-3. 
-Learning Deep Features for Discriminative Localization
+3. Learning Deep Features for Discriminative Localization
 http://cnnlocalization.csail.mit.edu/
 https://github.com/jacobgil/keras-cam
 
-4. 
-Is object localization for free? – Weakly Supervised Object Recognition with Convolutional Neural Networks
+4. Grad-CAM: Gradient-weighted Class Activation Mapping
+https://github.com/ramprs/grad-cam
+http://gradcam.cloudcv.org/
+
+5. Is object localization for free? – Weakly Supervised Object Recognition with Convolutional Neural Networks
 http://www.di.ens.fr/willow/research/weakcnn/
 http://www.di.ens.fr/willow/research/cnn/
 
-5. Visualizing and Understanding Convolutional Networks
+6. Visualizing and Understanding Convolutional Networks
 https://arxiv.org/pdf/1311.2901v3.pdf
 https://neukom.dartmouth.edu/docs/bbat-wacv2016.pdf
 http://cs231n.github.io/understanding-cnn/
+
+7. Top-down NeuralAttention by Excitation Backprop
+https://arxiv.org/pdf/1608.00507v1.pdf
+http://cs-people.bu.edu/jmzhang/excitationbp.html
 ~~~
