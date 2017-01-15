@@ -25,5 +25,6 @@ http://www.di.ens.fr/willow/research/cnn/
 
 5. Visualizing and Understanding Convolutional Networks
 https://arxiv.org/pdf/1311.2901v3.pdf
+https://neukom.dartmouth.edu/docs/bbat-wacv2016.pdf
 http://cs231n.github.io/understanding-cnn/
 ~~~
