@@ -52,4 +52,8 @@ https://raghakot.github.io/keras-vis/visualizations/attention/
 Other
 ~~~
 https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations
+https://jacobgil.github.io/deeplearning/class-activation-maps
+
+https://jacobgil.github.io/deeplearning/filter-visualizations
+https://jacobgil.github.io/computervision/saliency-from-backproj
 ~~~
