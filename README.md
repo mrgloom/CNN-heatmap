@@ -40,6 +40,6 @@ Keras codebase
 
 GAP-CAM
 https://github.com/jacobgil/keras-cam
-
+https://github.com/tdeboissiere/VGG16CAM-keras
 
 ~~~
