@@ -34,3 +34,12 @@ http://cs231n.github.io/understanding-cnn/
 https://arxiv.org/pdf/1608.00507v1.pdf
 http://cs-people.bu.edu/jmzhang/excitationbp.html
 ~~~
+
+~~~
+Keras codebase
+
+GAP-CAM
+https://github.com/jacobgil/keras-cam
+
+
+~~~
