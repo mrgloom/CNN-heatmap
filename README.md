@@ -47,3 +47,9 @@ https://github.com/jacobgil/keras-grad-cam
 
 https://raghakot.github.io/keras-vis/visualizations/attention/
 ~~~
+
+
+Other
+~~~
+https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations
+~~~
