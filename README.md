@@ -36,10 +36,14 @@ http://cs-people.bu.edu/jmzhang/excitationbp.html
 ~~~
 
 ~~~
-Keras codebase
+Keras codebase:
 
 GAP-CAM
 https://github.com/jacobgil/keras-cam
 https://github.com/tdeboissiere/VGG16CAM-keras
 
+Grad-CAM
+https://github.com/jacobgil/keras-grad-cam
+
+https://raghakot.github.io/keras-vis/visualizations/attention/
 ~~~
