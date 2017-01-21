@@ -33,6 +33,11 @@ http://cs231n.github.io/understanding-cnn/
 7. Top-down NeuralAttention by Excitation Backprop
 https://arxiv.org/pdf/1608.00507v1.pdf
 http://cs-people.bu.edu/jmzhang/excitationbp.html
+
+8. Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer
+https://arxiv.org/pdf/1612.03928v1.pdf
+https://github.com/szagoruyko/attention-transfer
+
 ~~~
 
 ~~~
