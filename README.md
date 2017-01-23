@@ -20,6 +20,7 @@ https://github.com/jacobgil/keras-cam
 4. Grad-CAM: Gradient-weighted Class Activation Mapping
 https://github.com/ramprs/grad-cam
 http://gradcam.cloudcv.org/
+https://arxiv.org/pdf/1610.02391v2.pdf
 
 5. Is object localization for free? – Weakly Supervised Object Recognition with Convolutional Neural Networks
 http://www.di.ens.fr/willow/research/weakcnn/
