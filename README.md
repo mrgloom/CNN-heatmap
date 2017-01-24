@@ -31,7 +31,7 @@ https://arxiv.org/pdf/1311.2901v3.pdf
 https://neukom.dartmouth.edu/docs/bbat-wacv2016.pdf
 http://cs231n.github.io/understanding-cnn/
 
-7. Top-down NeuralAttention by Excitation Backprop
+7. Top-down NeuralAttention by Excitation Backprop (c-MWP)
 https://arxiv.org/pdf/1608.00507v1.pdf
 http://cs-people.bu.edu/jmzhang/excitationbp.html
 
@@ -39,6 +39,8 @@ http://cs-people.bu.edu/jmzhang/excitationbp.html
 https://arxiv.org/pdf/1612.03928v1.pdf
 https://github.com/szagoruyko/attention-transfer
 
+9. Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
+https://arxiv.org/pdf/1312.6034v2.pdf
 ~~~
 
 ~~~
