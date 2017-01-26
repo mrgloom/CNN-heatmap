@@ -11,6 +11,10 @@ https://arxiv.org/pdf/1411.4038v2.pdf
 http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf
 https://arxiv.org/pdf/1605.06211v1.pdf
 
+`convert fully connected layers to their
+    equivalent convolutional layers, since the weights are the same and only
+    the shapes are different.`
+
 2. Global average pooling layer
 Network In Network
 https://arxiv.org/pdf/1312.4400.pdf
