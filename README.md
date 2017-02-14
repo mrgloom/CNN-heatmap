@@ -47,6 +47,10 @@ https://github.com/szagoruyko/attention-transfer
 
 9. Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
 https://arxiv.org/pdf/1312.6034v2.pdf
+
+10. Visualizing Deep Neural Network Decisions: Prediction Difference Analysis
+https://openreview.net/pdf?id=BJ5UeU9xx
+https://github.com/lmzintgraf/DeepVis-PredDiff
 ~~~
 
 ~~~
