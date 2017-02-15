@@ -66,6 +66,12 @@ https://github.com/jacobgil/keras-grad-cam
 https://raghakot.github.io/keras-vis/visualizations/attention/
 ~~~
 
+~~~
+Tensorflow codebase:
+
+Grad-CAM
+https://github.com/Ankush96/grad-cam.tensorflow
+~~~
 
 Other
 ~~~
