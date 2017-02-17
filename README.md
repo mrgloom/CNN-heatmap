@@ -1,7 +1,13 @@
 # CNN-heatmap
 
 ~~~
-1. Net surgery trick
+
+1. Visualizing and Understanding Convolutional Networks
+https://arxiv.org/pdf/1311.2901v3.pdf
+https://neukom.dartmouth.edu/docs/bbat-wacv2016.pdf
+http://cs231n.github.io/understanding-cnn/
+
+2. Net surgery trick
 http://cs231n.github.io/convolutional-networks/#convert
 https://github.com/BVLC/caffe/blob/master/examples/net_surgery.ipynb
 
@@ -15,42 +21,44 @@ https://arxiv.org/pdf/1605.06211v1.pdf
     equivalent convolutional layers, since the weights are the same and only
     the shapes are different.`
 
-2. Global average pooling layer
+3. Global average pooling layer
 Network In Network
 https://arxiv.org/pdf/1312.4400.pdf
 
-3. Learning Deep Features for Discriminative Localization
+4. Learning Deep Features for Discriminative Localization
 http://cnnlocalization.csail.mit.edu/
 https://github.com/jacobgil/keras-cam
 
-4. Grad-CAM: Gradient-weighted Class Activation Mapping
+5. Grad-CAM: Gradient-weighted Class Activation Mapping
 https://github.com/ramprs/grad-cam
 http://gradcam.cloudcv.org/
 https://arxiv.org/pdf/1610.02391v2.pdf
 
-5. Is object localization for free? – Weakly Supervised Object Recognition with Convolutional Neural Networks
+6. Is object localization for free? – Weakly Supervised Object Recognition with Convolutional Neural Networks
 http://www.di.ens.fr/willow/research/weakcnn/
 http://www.di.ens.fr/willow/research/cnn/
 
-6. Visualizing and Understanding Convolutional Networks
-https://arxiv.org/pdf/1311.2901v3.pdf
-https://neukom.dartmouth.edu/docs/bbat-wacv2016.pdf
-http://cs231n.github.io/understanding-cnn/
+~~~
 
-7. Top-down NeuralAttention by Excitation Backprop (c-MWP)
+Additional:
+~~~
+
+1. Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
+https://arxiv.org/pdf/1312.6034v2.pdf
+
+2. Top-down NeuralAttention by Excitation Backprop (c-MWP)
 https://arxiv.org/pdf/1608.00507v1.pdf
 http://cs-people.bu.edu/jmzhang/excitationbp.html
 
-8. Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer
+3. Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer
 https://arxiv.org/pdf/1612.03928v1.pdf
 https://github.com/szagoruyko/attention-transfer
 
-9. Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
-https://arxiv.org/pdf/1312.6034v2.pdf
-
-10. Visualizing Deep Neural Network Decisions: Prediction Difference Analysis
+4. Visualizing Deep Neural Network Decisions: Prediction Difference Analysis
 https://openreview.net/pdf?id=BJ5UeU9xx
 https://github.com/lmzintgraf/DeepVis-PredDiff
+A New Method to Visualize Deep Neural Networks
+https://icmlviz.github.io/assets/papers/23.pdf
 ~~~
 
 ~~~
