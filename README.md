@@ -77,8 +77,12 @@ https://raghakot.github.io/keras-vis/visualizations/attention/
 ~~~
 Tensorflow codebase:
 
+GAP-CAM
+https://github.com/jazzsaxmafia/Weakly_detector
+
 Grad-CAM
 https://github.com/Ankush96/grad-cam.tensorflow
+
 ~~~
 
 Other
