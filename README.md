@@ -59,6 +59,10 @@ https://openreview.net/pdf?id=BJ5UeU9xx
 https://github.com/lmzintgraf/DeepVis-PredDiff
 A New Method to Visualize Deep Neural Networks
 https://icmlviz.github.io/assets/papers/23.pdf
+
+5. Self-Taught Object Localization with Deep Network
+https://arxiv.org/pdf/1409.3964.pdf
+
 ~~~
 
 ~~~
