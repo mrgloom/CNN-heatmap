@@ -68,6 +68,8 @@ https://arxiv.org/pdf/1409.3964.pdf
 ~~~
 Keras codebase:
 
+https://github.com/waleedka/cnn-visualization/blob/master/cnn_visualization.ipynb
+
 GAP-CAM
 https://github.com/jacobgil/keras-cam
 https://github.com/tdeboissiere/VGG16CAM-keras
