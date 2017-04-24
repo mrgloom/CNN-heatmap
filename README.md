@@ -63,6 +63,8 @@ https://icmlviz.github.io/assets/papers/23.pdf
 5. Self-Taught Object Localization with Deep Network
 https://arxiv.org/pdf/1409.3964.pdf
 
+6. Shallow and Deep Convolutional Networks for Saliency Prediction
+https://github.com/imatge-upc/saliency-2016-cvpr
 ~~~
 
 ~~~
