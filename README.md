@@ -70,7 +70,11 @@ https://github.com/imatge-upc/saliency-2016-cvpr
 ~~~
 Keras codebase:
 
+Oclusion based technique:
 https://github.com/waleedka/cnn-visualization/blob/master/cnn_visualization.ipynb
+
+Net surgery trick:
+https://github.com/heuritech/convnets-keras
 
 GAP-CAM
 https://github.com/jacobgil/keras-cam
