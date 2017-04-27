@@ -104,4 +104,6 @@ https://jacobgil.github.io/deeplearning/class-activation-maps
 
 https://jacobgil.github.io/deeplearning/filter-visualizations
 https://jacobgil.github.io/computervision/saliency-from-backproj
+
+https://github.com/CSAILVision/NetDissect
 ~~~
