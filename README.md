@@ -107,3 +107,8 @@ https://jacobgil.github.io/computervision/saliency-from-backproj
 
 https://github.com/CSAILVision/NetDissect
 ~~~
+
+Visualization:
+~~~
+https://github.com/shaohua0116/Activation-Visualization-Histogram
+~~~
