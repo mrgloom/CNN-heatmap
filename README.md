@@ -97,6 +97,10 @@ https://github.com/Ankush96/grad-cam.tensorflow
 
 ~~~
 
+Regression Activation Map
+https://github.com/cauchyturing/kaggle_diabetic_RAM
+
+
 Other
 ~~~
 https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations
