@@ -70,6 +70,8 @@ https://github.com/imatge-upc/saliency-2016-cvpr
 ~~~
 Keras codebase:
 
+https://github.com/raghakot/keras-vis
+
 Oclusion based technique:
 https://github.com/waleedka/cnn-visualization/blob/master/cnn_visualization.ipynb
 
