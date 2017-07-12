@@ -105,6 +105,8 @@ https://github.com/cauchyturing/kaggle_diabetic_RAM
 
 Other
 ~~~
+https://github.com/InFoCusp/tf_cnnvis
+
 https://github.com/keplr-io/quiver
 
 https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations
