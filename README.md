@@ -120,6 +120,9 @@ https://jacobgil.github.io/computervision/saliency-from-backproj
 https://github.com/CSAILVision/NetDissect
 
 https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5
+
+https://github.com/CSAILVision/NetDissect
+http://netdissect.csail.mit.edu/
 ~~~
 
 Visualization:
