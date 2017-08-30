@@ -91,6 +91,9 @@ https://raghakot.github.io/keras-vis/visualizations/attention/
 ~~~
 Tensorflow codebase:
 
+GAP
+https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/gap_mnist.ipynb
+
 GAP-CAM
 https://github.com/jazzsaxmafia/Weakly_detector
 
