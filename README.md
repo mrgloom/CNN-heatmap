@@ -86,6 +86,8 @@ Grad-CAM
 https://github.com/jacobgil/keras-grad-cam
 
 https://raghakot.github.io/keras-vis/visualizations/attention/
+
+https://github.com/mlhy/ResNet-50-for-Cats.Vs.Dogs
 ~~~
 
 ~~~
