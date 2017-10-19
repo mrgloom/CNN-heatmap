@@ -108,6 +108,9 @@ PyTorch
 ~~~
 Grad-CAM
 https://github.com/kazuto1011/grad-cam-pytorch
+
+GAP-CAM
+https://github.com/metalbubble/CAM/blob/master/pytorch_CAM.py
 ~~~
 
 Regression Activation Map
