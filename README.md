@@ -140,6 +140,8 @@ https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3
 
 https://github.com/CSAILVision/NetDissect
 http://netdissect.csail.mit.edu/
+
+https://github.com/imatge-upc/saliency-salgan-2017
 ~~~
 
 Visualization:
