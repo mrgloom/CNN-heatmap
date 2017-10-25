@@ -142,6 +142,8 @@ https://github.com/CSAILVision/NetDissect
 http://netdissect.csail.mit.edu/
 
 https://github.com/imatge-upc/saliency-salgan-2017
+
+http://imatge-upc.github.io/saliency-2016-cvpr/
 ~~~
 
 Visualization:
