@@ -114,6 +114,8 @@ https://github.com/metalbubble/CAM/blob/master/pytorch_CAM.py
 
 SPN
 https://github.com/yeezhu/SPN.pytorch
+
+https://github.com/utkuozbulak/pytorch-cnn-visualizations
 ~~~
 
 Regression Activation Map
