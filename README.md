@@ -116,6 +116,8 @@ SPN
 https://github.com/yeezhu/SPN.pytorch
 
 https://github.com/utkuozbulak/pytorch-cnn-visualizations
+
+https://github.com/jacobgil/pytorch-explain-black-box
 ~~~
 
 Regression Activation Map
