@@ -126,6 +126,8 @@ https://github.com/cauchyturing/kaggle_diabetic_RAM
 
 Other
 ~~~
+https://github.com/metalbubble/cnnvisualizer
+
 https://github.com/InFoCusp/tf_cnnvis
 
 https://github.com/ppwwyyxx/tensorpack/tree/master/examples/Saliency
