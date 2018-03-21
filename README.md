@@ -79,6 +79,7 @@ Net surgery trick:
 https://github.com/heuritech/convnets-keras
 
 GAP-CAM
+https://github.com/alexisbcook/ResNetCAM-keras/
 https://github.com/jacobgil/keras-cam
 https://github.com/tdeboissiere/VGG16CAM-keras
 
