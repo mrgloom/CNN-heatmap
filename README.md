@@ -85,6 +85,7 @@ https://github.com/tdeboissiere/VGG16CAM-keras
 
 Grad-CAM
 https://github.com/jacobgil/keras-grad-cam
+https://github.com/hiveml/tensorflow-grad-cam
 
 https://raghakot.github.io/keras-vis/visualizations/attention/
 
