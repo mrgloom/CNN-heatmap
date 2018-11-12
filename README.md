@@ -165,4 +165,5 @@ https://github.com/shaohua0116/Activation-Visualization-Histogram
 To look at:
 ~~~
 http://blog.qure.ai/notes/visualizing_deep_learning
+https://github.com/utkuozbulak/pytorch-cnn-visualizations
 ~~~
