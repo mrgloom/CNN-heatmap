@@ -166,4 +166,5 @@ To look at:
 ~~~
 http://blog.qure.ai/notes/visualizing_deep_learning
 https://github.com/utkuozbulak/pytorch-cnn-visualizations
+https://github.com/fornaxai/receptivefield
 ~~~
