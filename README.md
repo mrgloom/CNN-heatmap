@@ -157,6 +157,9 @@ https://github.com/imatge-upc/saliency-salgan-2017
 
 http://imatge-upc.github.io/saliency-2016-cvpr/
 https://github.com/imatge-upc/saliency-2016-cvpr
+
+https://openreview.net/pdf?id=SkfMWhAqYQ
+
 ~~~
 
 Visualization:
