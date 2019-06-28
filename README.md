@@ -67,9 +67,8 @@ https://arxiv.org/pdf/1409.3964.pdf
 https://github.com/imatge-upc/saliency-2016-cvpr
 ~~~
 
-~~~
 Keras codebase:
-
+~~~
 https://github.com/raghakot/keras-vis
 
 Oclusion based technique:
@@ -82,6 +81,7 @@ GAP-CAM
 https://github.com/alexisbcook/ResNetCAM-keras/
 https://github.com/jacobgil/keras-cam
 https://github.com/tdeboissiere/VGG16CAM-keras
+https://github.com/keras-team/keras/blob/0cfa5c2709906a7a76f552f71a562f899e408695/examples/class_activation_maps.py
 
 Grad-CAM
 https://github.com/jacobgil/keras-grad-cam
@@ -92,9 +92,8 @@ https://raghakot.github.io/keras-vis/visualizations/attention/
 https://github.com/mlhy/ResNet-50-for-Cats.Vs.Dogs
 ~~~
 
-~~~
 Tensorflow codebase:
-
+~~~
 GAP
 https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/gap_mnist.ipynb
 
@@ -106,7 +105,7 @@ https://github.com/Ankush96/grad-cam.tensorflow
 
 ~~~
 
-PyTorch
+PyTorch codebase:
 ~~~
 Grad-CAM
 https://github.com/kazuto1011/grad-cam-pytorch
